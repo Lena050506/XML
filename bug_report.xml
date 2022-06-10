@@ -1,1 +1,9 @@
-
+<bug report>
+  <Title>Открывается пустой дропдаун на главной странице при нажатии на него</Title>
+  <Steps>Открыть приложение, нажать на дропдаун</Steps>
+  <Expected result>Открывается выпадающий список</Expected result>
+  <Aktual result>Выпадающий список не открывается</Aktual result>
+  <Severity>Major</Severity>
+  <Priority>Hight</Priority>
+  <Invinorment>windows 10</Invinorment>
+</bug repopt>
